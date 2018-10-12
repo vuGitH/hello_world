@@ -7,14 +7,16 @@ My name is Vladimir. One day I offered to my father to edit his verses.
 ##Ivan60
 Проект подарка Ване
 
-'''JavaScriptvar ivan='I'
+```JavaScriptvar 
+var ivan = 'I'
   +'v'
   +'a'
   +'n';
-var sixty=60;
-console.log(ivan+sixty);'''
+var sixty = 60;
+console.log(ivan+sixty);
+```
 
-Проект ''Ivan60'' приурочен к Юбилею Ивана 
+Проект __Ivan60__ приурочен к Юбилею Ивана 
 [посмотрите на него](https://plus.google.com/u/0/_/focus/photos/public/AIbEiAIAAABECKeSkfi-7YH1lgEiC3ZjYXJkX3Bob3RvKihkZWE5ZTI3OGQ0NzM1YjdjMTgxNmQ4YTMzMjQ3YWQ5OTVjZjdlZTIwMAGi9CFdT_jKFopUOPgxVIAi5NJZ_Q?sz=24)
 и состоит из двух файлов:
 - Посвящение
